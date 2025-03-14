@@ -14,7 +14,7 @@
 
 <h2 align="center"> <a href='https://postimg.cc/1ntQ9R74' target='_blank'><img src='https://i.postimg.cc/1ntQ9R74/codificacion.gif' width="80px" height="80px" align="center" border='0' alt='codificacion'/></a> About Me </h2>
   
-- 🐢 I’m currently learning Machine Learning and Deep Learning
+- 🧠 I’m currently learning Machine Learning and Deep Learning
   
 - 👨🏻‍💻 I’m looking to collaborate on IA Projects
   
