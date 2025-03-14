@@ -2,14 +2,13 @@
   
 <h1 align="center"> Hi I'm Fernando <a href="https://postimg.cc/XZ55s3kG"> <img src="https://i.postimg.cc/Zq7LK59c/robot-1.gif" width="100px" height="100px" align="center"> </a> </h1>
 
-
+<a href='https://postimg.cc/S2PN317X' target='_blank'><img src='https://i.postimg.cc/S2PN317X/libro.png' align = "right" border='0' alt='libro'/></a>
+ 
 - Electronics Engineering student with a strong passion for programming, as well as developing projects in the fields of Machine Learning and PCB design. 
 
-- My expertise includes working with microcontrollers such as Arduino, STM32, Raspberry, data processing with Python, and database management with MySQL.
+- My expertise includes working with microcontrollers such as Arduino, STM32, Raspberry PI, data processing with Python, and database management with MySQL.
   
-- Additionally, I have experience in building and analyzing data-driven models, leveraging tools like Power BI for insightful visualizations.
-  
-- I enjoy designing and optimizing PCB layouts to improve electronic system performance.
+- Additionally, I have experience in building and analyzing data-driven models, leveraging tools like Power BI.
 
 - Work on challenging projects and collaborate with others who share my enthusiasm for technology and innovation :)
 
@@ -19,15 +18,15 @@
   
 - 👯 I’m looking to collaborate on IA Projects
   
-- 💬 Ask me about SQL, Arduino, Machine Learning
+- 💬 Ask me about WWE, Books and Movies
   
-- ⚡ Fun fact: I have a twin
+- ⚡ Fun fact: I have a twin and my favorite wrestler is Eddie Guerrero :)
 
   
   
 <h2 align="center"> <a href='https://postimg.cc/k2bZv6zx' target='_blank'><img src='https://i.postimg.cc/k2bZv6zx/robot-3.gif' width="80px" height="80px" align="center" border='0' alt='robot-3'/></a> My Skills Include </h2>
 
-<h4> Language </h4>
+<h4> Languages </h4>
 <p>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="41" height="41"/>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
@@ -48,13 +47,15 @@
 <h4> Databases </h4>
 <p> 
     <img width="55px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
-    <img height=47px src="https://www.vectorlogo.zone/logos/r-project/r-project-icon.svg">
 </p>
-
+<h4> Others </h4>
 <p>
     <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
     <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" />
     <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
+    <a href='https://postimg.cc/CRvycB45' target='_blank'><img src='https://i.postimg.cc/CRvycB45/descarga.png' width="40" height="40" border='0' alt='descarga'/></a>
+    <a href='https://postimg.cc/8fd9Mj51' target='_blank'><img src='https://i.postimg.cc/8fd9Mj51/pbi.jpg' width="40" height="40" border='0' alt='pbi'/></a>
+    <a href='https://postimg.cc/hfrNGz6s' target='_blank'><img src='https://i.postimg.cc/hfrNGz6s/raspberry-pi-logo.png' width="50" height="50" border='0' alt='raspberry-pi-logo'/></a>
 </p>
