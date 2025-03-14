@@ -32,6 +32,7 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/>
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
 </p>
+
 <h4> Libraries </h4>
 <p>
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
@@ -44,18 +45,28 @@
     <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/>
 </p>
+
 <h4> Databases </h4>
 <p> 
     <img width="55px" src="https://img.icons8.com/color/48/000000/mysql-logo.png">
 </p>
-<h4> Others </h4>
-<p>
-    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
-    <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
-    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
-    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" />
-    <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
+
+<h4> 3D Model and Data visualization </h4>
+<p> 
     <a href='https://postimg.cc/CRvycB45' target='_blank'><img src='https://i.postimg.cc/CRvycB45/descarga.png' width="40" height="40" border='0' alt='descarga'/></a>
     <a href='https://postimg.cc/8fd9Mj51' target='_blank'><img src='https://i.postimg.cc/8fd9Mj51/pbi.jpg' width="40" height="40" border='0' alt='pbi'/></a>
+</p>
+<h4> IDE </h4>
+  <p>
+    <img width="40px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Visual_Studio_Code_1.35_icon.svg/2048px-Visual_Studio_Code_1.35_icon.svg.png">
+    <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
+    <a href='https://postimg.cc/ykZXfwXZ' target='_blank'><img src='https://i.postimg.cc/ykZXfwXZ/descarga-3.png' width="45" height="50" border='0' alt='descarga-3'/></a>
+  </p>
+<h4> Others </h4>
+<p>
+    <img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/master/svg/Matlab_Logo.png" alt="MATLAB" width="40" height="40">
+    <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcToZuGFq2Tj9gvDP6Dm7w5TeYGrmCy0KOtwc8tvDsy606EmhjdsUZV_qx-RbQGhA-KDW3Y&usqp=CAU" alt="pytorch" width="48" height="48" />
+    <img width="40px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git">
     <a href='https://postimg.cc/hfrNGz6s' target='_blank'><img src='https://i.postimg.cc/hfrNGz6s/raspberry-pi-logo.png' width="50" height="50" border='0' alt='raspberry-pi-logo'/></a>
+    <a href='https://postimg.cc/jWV1gH7s' target='_blank'><img src='https://i.postimg.cc/jWV1gH7s/descarga-2.png' width="50" height="50" border='0' alt='descarga-2'/></a>
 </p>
