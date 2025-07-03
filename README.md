@@ -33,6 +33,11 @@
     <img width="40px" src="https://raw.githubusercontent.com/rahulbanerjee26/githubAboutMeGenerator/main/icons/python.svg">
     <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/C5KGTPth/html-5.png' border='0' alt='html-5' width="42" height="42"/></a>
     <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/HxtL4T6n/css-3-1.png' border='0' alt='css-3-1' width="42" height="42"/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/0yx1nWGp/js.png' border='0' alt='js'width="42" height="42"/></a>
+    <a href='https://postimg.cc/MM6PSP8d' target='_blank'><img src='https://i.postimg.cc/ZR3162st/ts.png' border='0' alt='ts'width="42" height="42"/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/RCYM1xZy/vite.png' border='0' alt='vite'width="42" height="42"/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/ncpV3GJf/react2.png' border='0' alt='react2'width="45" height="42"/></a>
+    <a href='https://postimages.org/' target='_blank'><img src='https://i.postimg.cc/cHxTDzX8/tw.png' border='0' alt='tw' width="60" height="36"/></a>
 </p>
 
 <h4> Libraries </h4>
@@ -46,6 +51,7 @@
     <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/>
     <img src="https://miro.medium.com/max/400/1*ejeltApvDzDBB9izIwnyiQ.png" width="40" height="40"/>
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Keras_logo.svg/1200px-Keras_logo.svg.png" alt="pytorch" width="40" height="40"/>
+    
 </p>
 
 <h4> Databases </h4>
