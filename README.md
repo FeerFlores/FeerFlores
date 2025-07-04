@@ -1,4 +1,32 @@
+<h1 align=center>👋 Hi, I’m Fernando Flores</h1>
 
+<h4 align=center>Electronics Engineering Student | Embedded Systems & Software Developer</h4>
+<br/>
+
+I am currently studying in Electronics Engineering. Over the course of my academic and project work, I’ve built a solid foundation in **embedded systems** and **software development**, leveraging platforms such as **Arduino**, **STM32** and **Raspberry Pi**.
+
+---
+
+## 🚀 Hands-On Projects
+
+- **Real-time IoT Sonometer** with **ESP32** and **MAX9814**  
+- **3D Rocket Visualization** in **Processing** driven by **MPU6050** gyroscope data  
+- **Power-efficient PCB Designs** for health-monitoring sensors
+
+---
+
+## 🔭 Currently Learning
+
+- **Machine Learning & Deep Learning**  
+- **Computer Vision** with OpenCV  
+- **Advanced Digital Signal Processing** in MATLAB
+
+---
+
+I’m eager to collaborate on **AI-driven** and **embedded-systems** initiatives that bridge hardware, software and data.  
+Feel free to connect or explore my projects below!
+
+## 💻 Tech Stack
 
 ### Full Stack Development
 
@@ -15,5 +43,6 @@
 ### Dev Environments & Hardware Platforms
 
 [![My Skills](https://skillicons.dev/icons?i=vscode,arduino,raspberrypi,matlab,autocad,notion,discord.md&perline=12)](https://skillicons.dev)
-  
+
+
 
