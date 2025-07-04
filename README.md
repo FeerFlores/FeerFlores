@@ -1,9 +1,23 @@
+<!-- Al inicio de tu README.md -->
 <h1 align=center>👋 Hi, I’m Fernando Flores</h1>
-
-<h4 align=center>Electronics Engineering Student | Embedded Systems & Software Developer</h4>
+<img
+  src="https://i.postimg.cc/LXfnc9Ps/programacion-web.png"
+  alt="Web Projects"
+  width="300"
+  align="left"
+/>
+<br/>
 <br/>
 
-I am currently studying in Electronics Engineering. Over the course of my academic and project work, I’ve built a solid foundation in **embedded systems** and **software development**, leveraging platforms such as **Arduino**, **STM32** and **Raspberry Pi**.
+**Electronics Engineering Student | Embedded Systems & Software Developer**
+
+I am currently studying Electronics Engineering. Throughout my academic
+and project work, I’ve built a solid foundation in **embedded systems** and
+**software development**, leveraging platforms such as **Arduino**,
+**STM32** and **Raspberry Pi**.
+
+<br clear="left"/>
+
 
 ---
 
@@ -11,7 +25,7 @@ I am currently studying in Electronics Engineering. Over the course of my academ
 
 - **Real-time IoT Sonometer** with **ESP32** and **MAX9814**  
 - **3D Rocket Visualization** in **Processing** driven by **MPU6050** gyroscope data  
-- **Power-efficient PCB Designs** for health-monitoring sensors
+- **Electronics & Sensors Portfolio Website**: Developing a web application to showcase electronics and sensor-based projects using **React**, **FastAPI** and **Tailwind CSS**  
 
 ---
 
