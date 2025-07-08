@@ -42,7 +42,7 @@ Feel free to connect or explore my projects below!
 
 ## 💻 Tech Stack
 
-### Full Stack Development
+### Development
 
 [![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,vite,tailwind,fastapi,nodejs,git,github,docker,vercel,netlify,mysql,postgres,sqlite&perline=10)](https://skillicons.dev)
 
