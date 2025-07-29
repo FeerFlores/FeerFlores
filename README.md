@@ -48,15 +48,15 @@ Feel free to connect or explore my projects below!
 
 ### Machine Learning
 
-[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow,anaconda&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow,anaconda&perline=6&theme=light)](https://skillicons.dev)
 
 ### Creative coding and visualization
 
-[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps&perline=6&theme=light)](https://skillicons.dev)
 
 ### Dev Environments & Hardware Platforms
 
-[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,raspberrypi,matlab,autocad,notion,discord.md&perline=12)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,arduino,raspberrypi,matlab,autocad,notion,discord.md&perline=12&theme=light)](https://skillicons.dev)
 
 
 
