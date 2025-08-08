@@ -44,15 +44,15 @@ Feel free to connect or explore my projects below!
 
 ### Development
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,vite,tailwind,fastapi,nodejs,git,github,docker,vercel,netlify,mysql,postgres,sqlite&perline=10)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,vite,tailwind,fastapi,nodejs,git,github,githubactions,docker,vercel,netlify,mysql,postgres,sqlite&perline=10)](https://skillicons.dev)
 
 ### Machine Learning
 
 [![My Skills](https://skillicons.dev/icons?i=sklearn,pytorch,opencv,tensorflow,anaconda&perline=6&theme=light)](https://skillicons.dev)
 
-### Creative coding and visualization
+### Creative coding and UI/UX
 
-[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps,figma&perline=6&theme=light)](https://skillicons.dev)
 
 ### Dev Environments & Hardware Platforms
 
