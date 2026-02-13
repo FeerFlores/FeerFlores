@@ -66,7 +66,7 @@ and project work, I’ve built a solid foundation in **embedded systems** and
 
 ### Creative coding and UI/UX
 
-[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps,figma&perline=6&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=processing,p5js,ai,ps,figma,threejs&perline=6&theme=light)](https://skillicons.dev)
 
 ### Dev Environments & Hardware Platforms
 
