@@ -1,5 +1,4 @@
-<!-- Al inicio de tu README.md -->
-<h1 align=center>👋 Hi, I’m Fernando Flores</h1>
+<h1 align=center>Hi, I’m Fernando Flores</h1>
 <img
   src="https://i.postimg.cc/9FCFfMw5/generated-28d46f30-3f10-4fc7-9d34-34595ab707b5.png"
   alt="Web Projects"
@@ -18,9 +17,6 @@ and project work, I’ve built a solid foundation in **embedded systems** and
 
 <br clear="left"/>
 
-
-
-
 ## Hands-On Projects
 
 <img
@@ -32,33 +28,18 @@ and project work, I’ve built a solid foundation in **embedded systems** and
 <br/>
 
 
-- **Real-time IoT Sonometer** with **ESP32** and **MAX9814**  
-- **3D Rocket Visualization** in **Processing** driven by **MPU6050** gyroscope data  
+- **Experimental Flight Telemetry System**: Developing a dual-ESP32 architecture for real-time flight telemetry acquisition and transmission using LoRa, integrating BMI270 and ICP-10111 sensors through I2C communication protocols. 
+- **3D Rocket Visualization Platform**: Designed a real-time 3D visualization system in Processing driven by MPU6050 gyroscope and accelerometer data streamed from embedded hardware. 
 - **Electronics & Sensors Portfolio Website**: Developing a web application to showcase electronics and sensor-based projects using **React**, **FastAPI** and **Tailwind CSS**  
 <br/>
-
-##  Currently Learning
-
-<img
-  src="https://i.postimg.cc/kGWR8pqX/code.png"
-  alt="Web Projects"
-  width="200"
-  align="right"
-/>
 <br/>
-
-- **Machine Learning & Deep Learning**  
-- **Computer Vision** with OpenCV  
-- **Advanced Digital Signal Processing** in MATLAB
-  
-<br/><br/>
 
 
 ## Tech Stack
 
 ### Development
 
-[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,html,css,js,ts,react,vite,tailwind,fastapi,git,github,githubactions,docker,vercel,netlify,mysql,postgres,sqlite&perline=10&theme=light)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=c,cpp,py,ts,astro,react,nextjs,tailwind,fastapi,git,github,vercel,netlify&perline=10&theme=light)](https://skillicons.dev)
 
 ### Machine Learning
 
